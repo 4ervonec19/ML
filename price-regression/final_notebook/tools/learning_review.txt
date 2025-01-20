@@ -1,0 +1,1000 @@
+Epoch 1/500
+10000/10000 - 14s - loss: 9050962001920.0000 - mean_absolute_error: 1745594.6250 - 14s/epoch - 1ms/step
+Epoch 2/500
+10000/10000 - 14s - loss: 8927605424128.0000 - mean_absolute_error: 1719269.6250 - 14s/epoch - 1ms/step
+Epoch 3/500
+10000/10000 - 14s - loss: 8800312492032.0000 - mean_absolute_error: 1697131.2500 - 14s/epoch - 1ms/step
+Epoch 4/500
+10000/10000 - 14s - loss: 8733308485632.0000 - mean_absolute_error: 1678316.5000 - 14s/epoch - 1ms/step
+Epoch 5/500
+10000/10000 - 14s - loss: 8670220386304.0000 - mean_absolute_error: 1669347.2500 - 14s/epoch - 1ms/step
+Epoch 6/500
+10000/10000 - 14s - loss: 8624745218048.0000 - mean_absolute_error: 1665636.2500 - 14s/epoch - 1ms/step
+Epoch 7/500
+10000/10000 - 13s - loss: 8593724669952.0000 - mean_absolute_error: 1658756.6250 - 13s/epoch - 1ms/step
+Epoch 8/500
+10000/10000 - 13s - loss: 8509230415872.0000 - mean_absolute_error: 1651293.5000 - 13s/epoch - 1ms/step
+Epoch 9/500
+10000/10000 - 14s - loss: 8537036029952.0000 - mean_absolute_error: 1651822.1250 - 14s/epoch - 1ms/step
+Epoch 10/500
+10000/10000 - 14s - loss: 8492503007232.0000 - mean_absolute_error: 1647757.0000 - 14s/epoch - 1ms/step
+Epoch 11/500
+10000/10000 - 13s - loss: 8459203379200.0000 - mean_absolute_error: 1640429.6250 - 13s/epoch - 1ms/step
+Epoch 12/500
+10000/10000 - 13s - loss: 8411530919936.0000 - mean_absolute_error: 1638011.6250 - 13s/epoch - 1ms/step
+Epoch 13/500
+10000/10000 - 14s - loss: 8391449640960.0000 - mean_absolute_error: 1636974.8750 - 14s/epoch - 1ms/step
+Epoch 14/500
+10000/10000 - 13s - loss: 8355474046976.0000 - mean_absolute_error: 1630182.8750 - 13s/epoch - 1ms/step
+Epoch 15/500
+10000/10000 - 13s - loss: 8316112601088.0000 - mean_absolute_error: 1625292.8750 - 13s/epoch - 1ms/step
+Epoch 16/500
+10000/10000 - 13s - loss: 8301815267328.0000 - mean_absolute_error: 1629646.6250 - 13s/epoch - 1ms/step
+Epoch 17/500
+10000/10000 - 12s - loss: 8266406952960.0000 - mean_absolute_error: 1620147.7500 - 12s/epoch - 1ms/step
+Epoch 18/500
+10000/10000 - 12s - loss: 8234529718272.0000 - mean_absolute_error: 1614774.3750 - 12s/epoch - 1ms/step
+Epoch 19/500
+10000/10000 - 12s - loss: 8212308819968.0000 - mean_absolute_error: 1612300.7500 - 12s/epoch - 1ms/step
+Epoch 20/500
+10000/10000 - 13s - loss: 8200123318272.0000 - mean_absolute_error: 1610085.3750 - 13s/epoch - 1ms/step
+Epoch 21/500
+10000/10000 - 13s - loss: 8171034247168.0000 - mean_absolute_error: 1607530.7500 - 13s/epoch - 1ms/step
+Epoch 22/500
+10000/10000 - 12s - loss: 8149141028864.0000 - mean_absolute_error: 1604350.2500 - 12s/epoch - 1ms/step
+Epoch 23/500
+10000/10000 - 12s - loss: 8133526683648.0000 - mean_absolute_error: 1603848.1250 - 12s/epoch - 1ms/step
+Epoch 24/500
+10000/10000 - 12s - loss: 8141288243200.0000 - mean_absolute_error: 1601236.2500 - 12s/epoch - 1ms/step
+Epoch 25/500
+10000/10000 - 12s - loss: 8094232870912.0000 - mean_absolute_error: 1599713.6250 - 12s/epoch - 1ms/step
+Epoch 26/500
+10000/10000 - 12s - loss: 8043728207872.0000 - mean_absolute_error: 1593196.8750 - 12s/epoch - 1ms/step
+Epoch 27/500
+10000/10000 - 12s - loss: 8095527337984.0000 - mean_absolute_error: 1595005.0000 - 12s/epoch - 1ms/step
+Epoch 28/500
+10000/10000 - 12s - loss: 8049366401024.0000 - mean_absolute_error: 1588248.1250 - 12s/epoch - 1ms/step
+Epoch 29/500
+10000/10000 - 12s - loss: 8027099889664.0000 - mean_absolute_error: 1585842.2500 - 12s/epoch - 1ms/step
+Epoch 30/500
+10000/10000 - 12s - loss: 7991308845056.0000 - mean_absolute_error: 1586306.5000 - 12s/epoch - 1ms/step
+Epoch 31/500
+10000/10000 - 12s - loss: 8023795302400.0000 - mean_absolute_error: 1585792.1250 - 12s/epoch - 1ms/step
+Epoch 32/500
+10000/10000 - 13s - loss: 7985897144320.0000 - mean_absolute_error: 1582223.3750 - 13s/epoch - 1ms/step
+Epoch 33/500
+10000/10000 - 12s - loss: 7951346040832.0000 - mean_absolute_error: 1582834.0000 - 12s/epoch - 1ms/step
+Epoch 34/500
+10000/10000 - 12s - loss: 7942105989120.0000 - mean_absolute_error: 1581937.7500 - 12s/epoch - 1ms/step
+Epoch 35/500
+10000/10000 - 12s - loss: 7910320504832.0000 - mean_absolute_error: 1577400.2500 - 12s/epoch - 1ms/step
+Epoch 36/500
+10000/10000 - 12s - loss: 7895698636800.0000 - mean_absolute_error: 1573314.8750 - 12s/epoch - 1ms/step
+Epoch 37/500
+10000/10000 - 12s - loss: 7919614033920.0000 - mean_absolute_error: 1575528.8750 - 12s/epoch - 1ms/step
+Epoch 38/500
+10000/10000 - 12s - loss: 7856206643200.0000 - mean_absolute_error: 1570233.5000 - 12s/epoch - 1ms/step
+Epoch 39/500
+10000/10000 - 12s - loss: 7869513072640.0000 - mean_absolute_error: 1569602.5000 - 12s/epoch - 1ms/step
+Epoch 40/500
+10000/10000 - 16s - loss: 7842572533760.0000 - mean_absolute_error: 1568019.2500 - 16s/epoch - 2ms/step
+Epoch 41/500
+10000/10000 - 17s - loss: 7860135657472.0000 - mean_absolute_error: 1566813.1250 - 17s/epoch - 2ms/step
+Epoch 42/500
+10000/10000 - 16s - loss: 7830387556352.0000 - mean_absolute_error: 1565453.3750 - 16s/epoch - 2ms/step
+Epoch 43/500
+10000/10000 - 16s - loss: 7829800353792.0000 - mean_absolute_error: 1567964.5000 - 16s/epoch - 2ms/step
+Epoch 44/500
+10000/10000 - 16s - loss: 7810652307456.0000 - mean_absolute_error: 1563631.2500 - 16s/epoch - 2ms/step
+Epoch 45/500
+10000/10000 - 16s - loss: 7760971300864.0000 - mean_absolute_error: 1557771.8750 - 16s/epoch - 2ms/step
+Epoch 46/500
+10000/10000 - 17s - loss: 7796564688896.0000 - mean_absolute_error: 1563114.2500 - 17s/epoch - 2ms/step
+Epoch 47/500
+10000/10000 - 17s - loss: 7797914206208.0000 - mean_absolute_error: 1561781.2500 - 17s/epoch - 2ms/step
+Epoch 48/500
+10000/10000 - 17s - loss: 7775435358208.0000 - mean_absolute_error: 1561445.3750 - 17s/epoch - 2ms/step
+Epoch 49/500
+10000/10000 - 16s - loss: 7764045201408.0000 - mean_absolute_error: 1559714.8750 - 16s/epoch - 2ms/step
+Epoch 50/500
+10000/10000 - 16s - loss: 7720761032704.0000 - mean_absolute_error: 1557554.0000 - 16s/epoch - 2ms/step
+Epoch 51/500
+10000/10000 - 15s - loss: 7754576560128.0000 - mean_absolute_error: 1560020.0000 - 15s/epoch - 1ms/step
+Epoch 52/500
+10000/10000 - 12s - loss: 7759772254208.0000 - mean_absolute_error: 1557664.8750 - 12s/epoch - 1ms/step
+Epoch 53/500
+10000/10000 - 12s - loss: 7707224965120.0000 - mean_absolute_error: 1553649.3750 - 12s/epoch - 1ms/step
+Epoch 54/500
+10000/10000 - 12s - loss: 7730621841408.0000 - mean_absolute_error: 1558057.2500 - 12s/epoch - 1ms/step
+Epoch 55/500
+10000/10000 - 13s - loss: 7720934572032.0000 - mean_absolute_error: 1557246.3750 - 13s/epoch - 1ms/step
+Epoch 56/500
+10000/10000 - 12s - loss: 7707380678656.0000 - mean_absolute_error: 1556004.3750 - 12s/epoch - 1ms/step
+Epoch 57/500
+10000/10000 - 12s - loss: 7683786670080.0000 - mean_absolute_error: 1551689.6250 - 12s/epoch - 1ms/step
+Epoch 58/500
+10000/10000 - 12s - loss: 7690256384000.0000 - mean_absolute_error: 1553999.7500 - 12s/epoch - 1ms/step
+Epoch 59/500
+10000/10000 - 12s - loss: 7662227423232.0000 - mean_absolute_error: 1551341.8750 - 12s/epoch - 1ms/step
+Epoch 60/500
+10000/10000 - 12s - loss: 7662362689536.0000 - mean_absolute_error: 1550688.3750 - 12s/epoch - 1ms/step
+Epoch 61/500
+10000/10000 - 12s - loss: 7653043470336.0000 - mean_absolute_error: 1551408.7500 - 12s/epoch - 1ms/step
+Epoch 62/500
+10000/10000 - 12s - loss: 7671640489984.0000 - mean_absolute_error: 1550488.2500 - 12s/epoch - 1ms/step
+Epoch 63/500
+10000/10000 - 12s - loss: 7621532188672.0000 - mean_absolute_error: 1547214.7500 - 12s/epoch - 1ms/step
+Epoch 64/500
+10000/10000 - 13s - loss: 7625848651776.0000 - mean_absolute_error: 1544630.1250 - 13s/epoch - 1ms/step
+Epoch 65/500
+10000/10000 - 12s - loss: 7626264936448.0000 - mean_absolute_error: 1544603.7500 - 12s/epoch - 1ms/step
+Epoch 66/500
+10000/10000 - 13s - loss: 7588780441600.0000 - mean_absolute_error: 1544999.5000 - 13s/epoch - 1ms/step
+Epoch 67/500
+10000/10000 - 16s - loss: 7644084961280.0000 - mean_absolute_error: 1544947.6250 - 16s/epoch - 2ms/step
+Epoch 68/500
+10000/10000 - 12s - loss: 7603497205760.0000 - mean_absolute_error: 1540290.1250 - 12s/epoch - 1ms/step
+Epoch 69/500
+10000/10000 - 13s - loss: 7610980892672.0000 - mean_absolute_error: 1543868.1250 - 13s/epoch - 1ms/step
+Epoch 70/500
+10000/10000 - 13s - loss: 7600122363904.0000 - mean_absolute_error: 1543918.1250 - 13s/epoch - 1ms/step
+Epoch 71/500
+10000/10000 - 12s - loss: 7591492059136.0000 - mean_absolute_error: 1541139.5000 - 12s/epoch - 1ms/step
+Epoch 72/500
+10000/10000 - 13s - loss: 7622567133184.0000 - mean_absolute_error: 1542675.5000 - 13s/epoch - 1ms/step
+Epoch 73/500
+10000/10000 - 12s - loss: 7586295840768.0000 - mean_absolute_error: 1539194.8750 - 12s/epoch - 1ms/step
+Epoch 74/500
+10000/10000 - 12s - loss: 7570808373248.0000 - mean_absolute_error: 1540881.5000 - 12s/epoch - 1ms/step
+Epoch 75/500
+10000/10000 - 13s - loss: 7512618696704.0000 - mean_absolute_error: 1538112.3750 - 13s/epoch - 1ms/step
+Epoch 76/500
+10000/10000 - 13s - loss: 7586334113792.0000 - mean_absolute_error: 1540942.8750 - 13s/epoch - 1ms/step
+Epoch 77/500
+10000/10000 - 12s - loss: 7554870542336.0000 - mean_absolute_error: 1537588.2500 - 12s/epoch - 1ms/step
+Epoch 78/500
+10000/10000 - 13s - loss: 7520962740224.0000 - mean_absolute_error: 1534909.2500 - 13s/epoch - 1ms/step
+Epoch 79/500
+10000/10000 - 12s - loss: 7555246981120.0000 - mean_absolute_error: 1537491.2500 - 12s/epoch - 1ms/step
+Epoch 80/500
+10000/10000 - 12s - loss: 7511244013568.0000 - mean_absolute_error: 1531912.1250 - 12s/epoch - 1ms/step
+Epoch 81/500
+10000/10000 - 12s - loss: 7549092888576.0000 - mean_absolute_error: 1534506.6250 - 12s/epoch - 1ms/step
+Epoch 82/500
+10000/10000 - 12s - loss: 7488475758592.0000 - mean_absolute_error: 1530518.8750 - 12s/epoch - 1ms/step
+Epoch 83/500
+10000/10000 - 12s - loss: 7510540419072.0000 - mean_absolute_error: 1535103.1250 - 12s/epoch - 1ms/step
+Epoch 84/500
+10000/10000 - 12s - loss: 7485161734144.0000 - mean_absolute_error: 1531189.3750 - 12s/epoch - 1ms/step
+Epoch 85/500
+10000/10000 - 12s - loss: 7492577263616.0000 - mean_absolute_error: 1532206.3750 - 12s/epoch - 1ms/step
+Epoch 86/500
+10000/10000 - 12s - loss: 7506413223936.0000 - mean_absolute_error: 1528888.2500 - 12s/epoch - 1ms/step
+Epoch 87/500
+10000/10000 - 12s - loss: 7507207520256.0000 - mean_absolute_error: 1531739.2500 - 12s/epoch - 1ms/step
+Epoch 88/500
+10000/10000 - 12s - loss: 7467398332416.0000 - mean_absolute_error: 1525060.7500 - 12s/epoch - 1ms/step
+Epoch 89/500
+10000/10000 - 12s - loss: 7530553540608.0000 - mean_absolute_error: 1533792.1250 - 12s/epoch - 1ms/step
+Epoch 90/500
+10000/10000 - 12s - loss: 7453685579776.0000 - mean_absolute_error: 1527553.6250 - 12s/epoch - 1ms/step
+Epoch 91/500
+10000/10000 - 12s - loss: 7445322137600.0000 - mean_absolute_error: 1526649.7500 - 12s/epoch - 1ms/step
+Epoch 92/500
+10000/10000 - 12s - loss: 7439870590976.0000 - mean_absolute_error: 1526561.7500 - 12s/epoch - 1ms/step
+Epoch 93/500
+10000/10000 - 12s - loss: 7437571063808.0000 - mean_absolute_error: 1521430.0000 - 12s/epoch - 1ms/step
+Epoch 94/500
+10000/10000 - 14s - loss: 7427793616896.0000 - mean_absolute_error: 1522507.5000 - 14s/epoch - 1ms/step
+Epoch 95/500
+10000/10000 - 13s - loss: 7454567956480.0000 - mean_absolute_error: 1523517.6250 - 13s/epoch - 1ms/step
+Epoch 96/500
+10000/10000 - 12s - loss: 7441986093056.0000 - mean_absolute_error: 1521760.8750 - 12s/epoch - 1ms/step
+Epoch 97/500
+10000/10000 - 13s - loss: 7389338140672.0000 - mean_absolute_error: 1516419.5000 - 13s/epoch - 1ms/step
+Epoch 98/500
+10000/10000 - 14s - loss: 7416211046400.0000 - mean_absolute_error: 1518610.3750 - 14s/epoch - 1ms/step
+Epoch 99/500
+10000/10000 - 15s - loss: 7400088666112.0000 - mean_absolute_error: 1516650.7500 - 15s/epoch - 2ms/step
+Epoch 100/500
+10000/10000 - 14s - loss: 7401638461440.0000 - mean_absolute_error: 1518170.7500 - 14s/epoch - 1ms/step
+Epoch 101/500
+10000/10000 - 16s - loss: 7348303167488.0000 - mean_absolute_error: 1512922.5000 - 16s/epoch - 2ms/step
+Epoch 102/500
+10000/10000 - 15s - loss: 7396783030272.0000 - mean_absolute_error: 1513235.0000 - 15s/epoch - 1ms/step
+Epoch 103/500
+10000/10000 - 16s - loss: 7346659000320.0000 - mean_absolute_error: 1508820.2500 - 16s/epoch - 2ms/step
+Epoch 104/500
+10000/10000 - 16s - loss: 7390564974592.0000 - mean_absolute_error: 1511664.1250 - 16s/epoch - 2ms/step
+Epoch 105/500
+10000/10000 - 15s - loss: 7342968012800.0000 - mean_absolute_error: 1509621.0000 - 15s/epoch - 1ms/step
+Epoch 106/500
+10000/10000 - 12s - loss: 7359527649280.0000 - mean_absolute_error: 1510515.8750 - 12s/epoch - 1ms/step
+Epoch 107/500
+10000/10000 - 12s - loss: 7343146795008.0000 - mean_absolute_error: 1508281.1250 - 12s/epoch - 1ms/step
+Epoch 108/500
+10000/10000 - 12s - loss: 7332364812288.0000 - mean_absolute_error: 1511330.8750 - 12s/epoch - 1ms/step
+Epoch 109/500
+10000/10000 - 12s - loss: 7358976098304.0000 - mean_absolute_error: 1508572.6250 - 12s/epoch - 1ms/step
+Epoch 110/500
+10000/10000 - 12s - loss: 7293252927488.0000 - mean_absolute_error: 1504797.1250 - 12s/epoch - 1ms/step
+Epoch 111/500
+10000/10000 - 12s - loss: 7298017656832.0000 - mean_absolute_error: 1504274.6250 - 12s/epoch - 1ms/step
+Epoch 112/500
+10000/10000 - 13s - loss: 7290671857664.0000 - mean_absolute_error: 1504577.7500 - 13s/epoch - 1ms/step
+Epoch 113/500
+10000/10000 - 12s - loss: 7284132937728.0000 - mean_absolute_error: 1506604.6250 - 12s/epoch - 1ms/step
+Epoch 114/500
+10000/10000 - 14s - loss: 7300564647936.0000 - mean_absolute_error: 1503603.6250 - 14s/epoch - 1ms/step
+Epoch 115/500
+10000/10000 - 12s - loss: 7242695311360.0000 - mean_absolute_error: 1496519.1250 - 12s/epoch - 1ms/step
+Epoch 116/500
+10000/10000 - 12s - loss: 7262021615616.0000 - mean_absolute_error: 1499468.1250 - 12s/epoch - 1ms/step
+Epoch 117/500
+10000/10000 - 13s - loss: 7267225698304.0000 - mean_absolute_error: 1500652.6250 - 13s/epoch - 1ms/step
+Epoch 118/500
+10000/10000 - 13s - loss: 7276500877312.0000 - mean_absolute_error: 1500251.5000 - 13s/epoch - 1ms/step
+Epoch 119/500
+10000/10000 - 13s - loss: 7272455995392.0000 - mean_absolute_error: 1503858.3750 - 13s/epoch - 1ms/step
+Epoch 120/500
+10000/10000 - 12s - loss: 7249561387008.0000 - mean_absolute_error: 1499379.2500 - 12s/epoch - 1ms/step
+Epoch 121/500
+10000/10000 - 12s - loss: 7282916589568.0000 - mean_absolute_error: 1497969.2500 - 12s/epoch - 1ms/step
+Epoch 122/500
+10000/10000 - 12s - loss: 7234094366720.0000 - mean_absolute_error: 1493824.8750 - 12s/epoch - 1ms/step
+Epoch 123/500
+10000/10000 - 12s - loss: 7245962674176.0000 - mean_absolute_error: 1495954.2500 - 12s/epoch - 1ms/step
+Epoch 124/500
+10000/10000 - 12s - loss: 7189537226752.0000 - mean_absolute_error: 1488604.8750 - 12s/epoch - 1ms/step
+Epoch 125/500
+10000/10000 - 12s - loss: 7206902693888.0000 - mean_absolute_error: 1490295.7500 - 12s/epoch - 1ms/step
+Epoch 126/500
+10000/10000 - 12s - loss: 7189161312256.0000 - mean_absolute_error: 1488521.8750 - 12s/epoch - 1ms/step
+Epoch 127/500
+10000/10000 - 12s - loss: 7186118344704.0000 - mean_absolute_error: 1490639.3750 - 12s/epoch - 1ms/step
+Epoch 128/500
+10000/10000 - 12s - loss: 7167911919616.0000 - mean_absolute_error: 1488527.6250 - 12s/epoch - 1ms/step
+Epoch 129/500
+10000/10000 - 12s - loss: 7158336323584.0000 - mean_absolute_error: 1488305.0000 - 12s/epoch - 1ms/step
+Epoch 130/500
+10000/10000 - 12s - loss: 7175660896256.0000 - mean_absolute_error: 1487459.8750 - 12s/epoch - 1ms/step
+Epoch 131/500
+10000/10000 - 12s - loss: 7141941837824.0000 - mean_absolute_error: 1484810.3750 - 12s/epoch - 1ms/step
+Epoch 132/500
+10000/10000 - 12s - loss: 7172340056064.0000 - mean_absolute_error: 1483635.6250 - 12s/epoch - 1ms/step
+Epoch 133/500
+10000/10000 - 13s - loss: 7118808678400.0000 - mean_absolute_error: 1480802.7500 - 13s/epoch - 1ms/step
+Epoch 134/500
+10000/10000 - 13s - loss: 7133730963456.0000 - mean_absolute_error: 1479836.7500 - 13s/epoch - 1ms/step
+Epoch 135/500
+10000/10000 - 12s - loss: 7107567943680.0000 - mean_absolute_error: 1480884.5000 - 12s/epoch - 1ms/step
+Epoch 136/500
+10000/10000 - 12s - loss: 7171459252224.0000 - mean_absolute_error: 1482576.7500 - 12s/epoch - 1ms/step
+Epoch 137/500
+10000/10000 - 12s - loss: 7116600901632.0000 - mean_absolute_error: 1476660.1250 - 12s/epoch - 1ms/step
+Epoch 138/500
+10000/10000 - 12s - loss: 7157922136064.0000 - mean_absolute_error: 1482474.3750 - 12s/epoch - 1ms/step
+Epoch 139/500
+10000/10000 - 12s - loss: 7114761699328.0000 - mean_absolute_error: 1480639.7500 - 12s/epoch - 1ms/step
+Epoch 140/500
+10000/10000 - 12s - loss: 7100375760896.0000 - mean_absolute_error: 1477148.5000 - 12s/epoch - 1ms/step
+Epoch 141/500
+10000/10000 - 12s - loss: 7085229604864.0000 - mean_absolute_error: 1474917.3750 - 12s/epoch - 1ms/step
+Epoch 142/500
+10000/10000 - 12s - loss: 7028361134080.0000 - mean_absolute_error: 1469003.0000 - 12s/epoch - 1ms/step
+Epoch 143/500
+10000/10000 - 14s - loss: 7058592104448.0000 - mean_absolute_error: 1475078.7500 - 14s/epoch - 1ms/step
+Epoch 144/500
+10000/10000 - 12s - loss: 7074135670784.0000 - mean_absolute_error: 1476968.0000 - 12s/epoch - 1ms/step
+Epoch 145/500
+10000/10000 - 12s - loss: 7057854955520.0000 - mean_absolute_error: 1471048.8750 - 12s/epoch - 1ms/step
+Epoch 146/500
+10000/10000 - 12s - loss: 7055631450112.0000 - mean_absolute_error: 1471806.1250 - 12s/epoch - 1ms/step
+Epoch 147/500
+10000/10000 - 12s - loss: 7059830996992.0000 - mean_absolute_error: 1475063.8750 - 12s/epoch - 1ms/step
+Epoch 148/500
+10000/10000 - 12s - loss: 7079404240896.0000 - mean_absolute_error: 1476911.5000 - 12s/epoch - 1ms/step
+Epoch 149/500
+10000/10000 - 12s - loss: 7075859529728.0000 - mean_absolute_error: 1468668.1250 - 12s/epoch - 1ms/step
+Epoch 150/500
+10000/10000 - 12s - loss: 7039036686336.0000 - mean_absolute_error: 1471397.2500 - 12s/epoch - 1ms/step
+Epoch 151/500
+10000/10000 - 12s - loss: 7058885181440.0000 - mean_absolute_error: 1471151.1250 - 12s/epoch - 1ms/step
+Epoch 152/500
+10000/10000 - 12s - loss: 7028212760576.0000 - mean_absolute_error: 1469536.3750 - 12s/epoch - 1ms/step
+Epoch 153/500
+10000/10000 - 12s - loss: 7045949423616.0000 - mean_absolute_error: 1470573.6250 - 12s/epoch - 1ms/step
+Epoch 154/500
+10000/10000 - 12s - loss: 6995704283136.0000 - mean_absolute_error: 1461443.6250 - 12s/epoch - 1ms/step
+Epoch 155/500
+10000/10000 - 12s - loss: 7025564581888.0000 - mean_absolute_error: 1467706.6250 - 12s/epoch - 1ms/step
+Epoch 156/500
+10000/10000 - 12s - loss: 7004744056832.0000 - mean_absolute_error: 1464924.2500 - 12s/epoch - 1ms/step
+Epoch 157/500
+10000/10000 - 12s - loss: 6996419936256.0000 - mean_absolute_error: 1464228.3750 - 12s/epoch - 1ms/step
+Epoch 158/500
+10000/10000 - 12s - loss: 6970351812608.0000 - mean_absolute_error: 1461889.8750 - 12s/epoch - 1ms/step
+Epoch 159/500
+10000/10000 - 12s - loss: 6980024401920.0000 - mean_absolute_error: 1464414.8750 - 12s/epoch - 1ms/step
+Epoch 160/500
+10000/10000 - 12s - loss: 6966288580608.0000 - mean_absolute_error: 1459855.3750 - 12s/epoch - 1ms/step
+Epoch 161/500
+10000/10000 - 13s - loss: 6972861054976.0000 - mean_absolute_error: 1458123.6250 - 13s/epoch - 1ms/step
+Epoch 162/500
+10000/10000 - 12s - loss: 6979518464000.0000 - mean_absolute_error: 1458980.0000 - 12s/epoch - 1ms/step
+Epoch 163/500
+10000/10000 - 13s - loss: 6940456910848.0000 - mean_absolute_error: 1456319.7500 - 13s/epoch - 1ms/step
+Epoch 164/500
+10000/10000 - 13s - loss: 6918621888512.0000 - mean_absolute_error: 1455492.2500 - 13s/epoch - 1ms/step
+Epoch 165/500
+10000/10000 - 12s - loss: 6904285757440.0000 - mean_absolute_error: 1454905.5000 - 12s/epoch - 1ms/step
+Epoch 166/500
+10000/10000 - 12s - loss: 6935556390912.0000 - mean_absolute_error: 1455050.5000 - 12s/epoch - 1ms/step
+Epoch 167/500
+10000/10000 - 12s - loss: 6904044060672.0000 - mean_absolute_error: 1449230.2500 - 12s/epoch - 1ms/step
+Epoch 168/500
+10000/10000 - 12s - loss: 6899012993024.0000 - mean_absolute_error: 1452086.2500 - 12s/epoch - 1ms/step
+Epoch 169/500
+10000/10000 - 16s - loss: 6873927909376.0000 - mean_absolute_error: 1449104.7500 - 16s/epoch - 2ms/step
+Epoch 170/500
+10000/10000 - 16s - loss: 6886983729152.0000 - mean_absolute_error: 1447707.7500 - 16s/epoch - 2ms/step
+Epoch 171/500
+10000/10000 - 16s - loss: 6891198480384.0000 - mean_absolute_error: 1447375.2500 - 16s/epoch - 2ms/step
+Epoch 172/500
+10000/10000 - 16s - loss: 6858632855552.0000 - mean_absolute_error: 1452577.2500 - 16s/epoch - 2ms/step
+Epoch 173/500
+10000/10000 - 16s - loss: 6888578088960.0000 - mean_absolute_error: 1448127.8750 - 16s/epoch - 2ms/step
+Epoch 174/500
+10000/10000 - 16s - loss: 6863261794304.0000 - mean_absolute_error: 1448059.8750 - 16s/epoch - 2ms/step
+Epoch 175/500
+10000/10000 - 17s - loss: 6832360259584.0000 - mean_absolute_error: 1443478.6250 - 17s/epoch - 2ms/step
+Epoch 176/500
+10000/10000 - 17s - loss: 6824272068608.0000 - mean_absolute_error: 1443361.7500 - 17s/epoch - 2ms/step
+Epoch 177/500
+10000/10000 - 16s - loss: 6883661316096.0000 - mean_absolute_error: 1450305.0000 - 16s/epoch - 2ms/step
+Epoch 178/500
+10000/10000 - 16s - loss: 6845005561856.0000 - mean_absolute_error: 1446630.6250 - 16s/epoch - 2ms/step
+Epoch 179/500
+10000/10000 - 16s - loss: 6800305815552.0000 - mean_absolute_error: 1438697.2500 - 16s/epoch - 2ms/step
+Epoch 180/500
+10000/10000 - 13s - loss: 6849069842432.0000 - mean_absolute_error: 1443774.5000 - 13s/epoch - 1ms/step
+Epoch 181/500
+10000/10000 - 12s - loss: 6864890757120.0000 - mean_absolute_error: 1442934.2500 - 12s/epoch - 1ms/step
+Epoch 182/500
+10000/10000 - 12s - loss: 6814238769152.0000 - mean_absolute_error: 1437701.2500 - 12s/epoch - 1ms/step
+Epoch 183/500
+10000/10000 - 12s - loss: 6848925138944.0000 - mean_absolute_error: 1446652.1250 - 12s/epoch - 1ms/step
+Epoch 184/500
+10000/10000 - 12s - loss: 6802097831936.0000 - mean_absolute_error: 1436020.0000 - 12s/epoch - 1ms/step
+Epoch 185/500
+10000/10000 - 12s - loss: 6806780248064.0000 - mean_absolute_error: 1439987.2500 - 12s/epoch - 1ms/step
+Epoch 186/500
+10000/10000 - 12s - loss: 6793152430080.0000 - mean_absolute_error: 1435312.0000 - 12s/epoch - 1ms/step
+Epoch 187/500
+10000/10000 - 12s - loss: 6772875591680.0000 - mean_absolute_error: 1435404.8750 - 12s/epoch - 1ms/step
+Epoch 188/500
+10000/10000 - 15s - loss: 6775925899264.0000 - mean_absolute_error: 1435228.0000 - 15s/epoch - 2ms/step
+Epoch 189/500
+10000/10000 - 13s - loss: 6762746347520.0000 - mean_absolute_error: 1430074.1250 - 13s/epoch - 1ms/step
+Epoch 190/500
+10000/10000 - 12s - loss: 6770977144832.0000 - mean_absolute_error: 1437833.1250 - 12s/epoch - 1ms/step
+Epoch 191/500
+10000/10000 - 12s - loss: 6734658142208.0000 - mean_absolute_error: 1427765.3750 - 12s/epoch - 1ms/step
+Epoch 192/500
+10000/10000 - 12s - loss: 6776459100160.0000 - mean_absolute_error: 1429547.0000 - 12s/epoch - 1ms/step
+Epoch 193/500
+10000/10000 - 12s - loss: 6729768108032.0000 - mean_absolute_error: 1430689.1250 - 12s/epoch - 1ms/step
+Epoch 194/500
+10000/10000 - 12s - loss: 6775510663168.0000 - mean_absolute_error: 1434710.7500 - 12s/epoch - 1ms/step
+Epoch 195/500
+10000/10000 - 12s - loss: 6733280837632.0000 - mean_absolute_error: 1429485.5000 - 12s/epoch - 1ms/step
+Epoch 196/500
+10000/10000 - 12s - loss: 6740786020352.0000 - mean_absolute_error: 1427950.7500 - 12s/epoch - 1ms/step
+Epoch 197/500
+10000/10000 - 12s - loss: 6776731205632.0000 - mean_absolute_error: 1437027.0000 - 12s/epoch - 1ms/step
+Epoch 198/500
+10000/10000 - 12s - loss: 6758782730240.0000 - mean_absolute_error: 1435246.7500 - 12s/epoch - 1ms/step
+Epoch 199/500
+10000/10000 - 12s - loss: 6740598849536.0000 - mean_absolute_error: 1432502.6250 - 12s/epoch - 1ms/step
+Epoch 200/500
+10000/10000 - 12s - loss: 6762807689216.0000 - mean_absolute_error: 1432302.7500 - 12s/epoch - 1ms/step
+Epoch 201/500
+10000/10000 - 12s - loss: 6716420259840.0000 - mean_absolute_error: 1429639.5000 - 12s/epoch - 1ms/step
+Epoch 202/500
+10000/10000 - 12s - loss: 6761672081408.0000 - mean_absolute_error: 1430601.7500 - 12s/epoch - 1ms/step
+Epoch 203/500
+10000/10000 - 12s - loss: 6724938891264.0000 - mean_absolute_error: 1427820.1250 - 12s/epoch - 1ms/step
+Epoch 204/500
+10000/10000 - 12s - loss: 6716049588224.0000 - mean_absolute_error: 1427893.3750 - 12s/epoch - 1ms/step
+Epoch 205/500
+10000/10000 - 13s - loss: 6746618200064.0000 - mean_absolute_error: 1427027.7500 - 13s/epoch - 1ms/step
+Epoch 206/500
+10000/10000 - 13s - loss: 6690420817920.0000 - mean_absolute_error: 1423505.8750 - 13s/epoch - 1ms/step
+Epoch 207/500
+10000/10000 - 13s - loss: 6667738546176.0000 - mean_absolute_error: 1422011.6250 - 13s/epoch - 1ms/step
+Epoch 208/500
+10000/10000 - 13s - loss: 6692949983232.0000 - mean_absolute_error: 1421789.7500 - 13s/epoch - 1ms/step
+Epoch 209/500
+10000/10000 - 12s - loss: 6719762595840.0000 - mean_absolute_error: 1424921.0000 - 12s/epoch - 1ms/step
+Epoch 210/500
+10000/10000 - 13s - loss: 6684706603008.0000 - mean_absolute_error: 1421697.0000 - 13s/epoch - 1ms/step
+Epoch 211/500
+10000/10000 - 12s - loss: 6658242641920.0000 - mean_absolute_error: 1419879.6250 - 12s/epoch - 1ms/step
+Epoch 212/500
+10000/10000 - 12s - loss: 6673412915200.0000 - mean_absolute_error: 1421594.3750 - 12s/epoch - 1ms/step
+Epoch 213/500
+10000/10000 - 12s - loss: 6664205893632.0000 - mean_absolute_error: 1417127.0000 - 12s/epoch - 1ms/step
+Epoch 214/500
+10000/10000 - 13s - loss: 6655100059648.0000 - mean_absolute_error: 1415508.6250 - 13s/epoch - 1ms/step
+Epoch 215/500
+10000/10000 - 13s - loss: 6669641187328.0000 - mean_absolute_error: 1421078.6250 - 13s/epoch - 1ms/step
+Epoch 216/500
+10000/10000 - 13s - loss: 6621944610816.0000 - mean_absolute_error: 1417809.8750 - 13s/epoch - 1ms/step
+Epoch 217/500
+10000/10000 - 12s - loss: 6650301775872.0000 - mean_absolute_error: 1419598.0000 - 12s/epoch - 1ms/step
+Epoch 218/500
+10000/10000 - 12s - loss: 6646726131712.0000 - mean_absolute_error: 1414735.6250 - 12s/epoch - 1ms/step
+Epoch 219/500
+10000/10000 - 13s - loss: 6634013720576.0000 - mean_absolute_error: 1414775.7500 - 13s/epoch - 1ms/step
+Epoch 220/500
+10000/10000 - 13s - loss: 6622400741376.0000 - mean_absolute_error: 1413457.5000 - 13s/epoch - 1ms/step
+Epoch 221/500
+10000/10000 - 12s - loss: 6668075663360.0000 - mean_absolute_error: 1423098.3750 - 12s/epoch - 1ms/step
+Epoch 222/500
+10000/10000 - 13s - loss: 6631346667520.0000 - mean_absolute_error: 1415146.6250 - 13s/epoch - 1ms/step
+Epoch 223/500
+10000/10000 - 12s - loss: 6614500245504.0000 - mean_absolute_error: 1415098.0000 - 12s/epoch - 1ms/step
+Epoch 224/500
+10000/10000 - 13s - loss: 6617995673600.0000 - mean_absolute_error: 1411181.6250 - 13s/epoch - 1ms/step
+Epoch 225/500
+10000/10000 - 12s - loss: 6637061406720.0000 - mean_absolute_error: 1414222.8750 - 12s/epoch - 1ms/step
+Epoch 226/500
+10000/10000 - 12s - loss: 6603694145536.0000 - mean_absolute_error: 1414325.2500 - 12s/epoch - 1ms/step
+Epoch 227/500
+10000/10000 - 12s - loss: 6591912869888.0000 - mean_absolute_error: 1410144.2500 - 12s/epoch - 1ms/step
+Epoch 228/500
+10000/10000 - 13s - loss: 6562711076864.0000 - mean_absolute_error: 1407978.2500 - 13s/epoch - 1ms/step
+Epoch 229/500
+10000/10000 - 13s - loss: 6579817545728.0000 - mean_absolute_error: 1409854.0000 - 13s/epoch - 1ms/step
+Epoch 230/500
+10000/10000 - 12s - loss: 6561153417216.0000 - mean_absolute_error: 1410425.0000 - 12s/epoch - 1ms/step
+Epoch 231/500
+10000/10000 - 12s - loss: 6601928867840.0000 - mean_absolute_error: 1410649.7500 - 12s/epoch - 1ms/step
+Epoch 232/500
+10000/10000 - 13s - loss: 6628511318016.0000 - mean_absolute_error: 1412220.3750 - 13s/epoch - 1ms/step
+Epoch 233/500
+10000/10000 - 13s - loss: 6574712029184.0000 - mean_absolute_error: 1410844.6250 - 13s/epoch - 1ms/step
+Epoch 234/500
+10000/10000 - 14s - loss: 6653562847232.0000 - mean_absolute_error: 1415084.5000 - 14s/epoch - 1ms/step
+Epoch 235/500
+10000/10000 - 13s - loss: 6593220444160.0000 - mean_absolute_error: 1408624.3750 - 13s/epoch - 1ms/step
+Epoch 236/500
+10000/10000 - 12s - loss: 6563183984640.0000 - mean_absolute_error: 1403385.7500 - 12s/epoch - 1ms/step
+Epoch 237/500
+10000/10000 - 12s - loss: 6540513771520.0000 - mean_absolute_error: 1406468.2500 - 12s/epoch - 1ms/step
+Epoch 238/500
+10000/10000 - 12s - loss: 6590146019328.0000 - mean_absolute_error: 1411642.6250 - 12s/epoch - 1ms/step
+Epoch 239/500
+10000/10000 - 13s - loss: 6595526787072.0000 - mean_absolute_error: 1407779.3750 - 13s/epoch - 1ms/step
+Epoch 240/500
+10000/10000 - 13s - loss: 6602553294848.0000 - mean_absolute_error: 1408014.3750 - 13s/epoch - 1ms/step
+Epoch 241/500
+10000/10000 - 12s - loss: 6524852764672.0000 - mean_absolute_error: 1400720.6250 - 12s/epoch - 1ms/step
+Epoch 242/500
+10000/10000 - 12s - loss: 6562158477312.0000 - mean_absolute_error: 1402059.0000 - 12s/epoch - 1ms/step
+Epoch 243/500
+10000/10000 - 12s - loss: 6574732476416.0000 - mean_absolute_error: 1408851.0000 - 12s/epoch - 1ms/step
+Epoch 244/500
+10000/10000 - 12s - loss: 6550744727552.0000 - mean_absolute_error: 1404407.0000 - 12s/epoch - 1ms/step
+Epoch 245/500
+10000/10000 - 12s - loss: 6527826526208.0000 - mean_absolute_error: 1403506.8750 - 12s/epoch - 1ms/step
+Epoch 246/500
+10000/10000 - 12s - loss: 6566132580352.0000 - mean_absolute_error: 1403760.3750 - 12s/epoch - 1ms/step
+Epoch 247/500
+10000/10000 - 12s - loss: 6503853457408.0000 - mean_absolute_error: 1399773.6250 - 12s/epoch - 1ms/step
+Epoch 248/500
+10000/10000 - 12s - loss: 6563454517248.0000 - mean_absolute_error: 1406589.5000 - 12s/epoch - 1ms/step
+Epoch 249/500
+10000/10000 - 12s - loss: 6510991638528.0000 - mean_absolute_error: 1401995.0000 - 12s/epoch - 1ms/step
+Epoch 250/500
+10000/10000 - 12s - loss: 6511666921472.0000 - mean_absolute_error: 1402203.6250 - 12s/epoch - 1ms/step
+Epoch 251/500
+10000/10000 - 13s - loss: 6544192700416.0000 - mean_absolute_error: 1406165.5000 - 13s/epoch - 1ms/step
+Epoch 252/500
+10000/10000 - 12s - loss: 6469298159616.0000 - mean_absolute_error: 1398488.3750 - 12s/epoch - 1ms/step
+Epoch 253/500
+10000/10000 - 12s - loss: 6476681183232.0000 - mean_absolute_error: 1399209.7500 - 12s/epoch - 1ms/step
+Epoch 254/500
+10000/10000 - 12s - loss: 6473291137024.0000 - mean_absolute_error: 1395443.8750 - 12s/epoch - 1ms/step
+Epoch 255/500
+10000/10000 - 13s - loss: 6503267303424.0000 - mean_absolute_error: 1402576.7500 - 13s/epoch - 1ms/step
+Epoch 256/500
+10000/10000 - 13s - loss: 6493236625408.0000 - mean_absolute_error: 1399455.3750 - 13s/epoch - 1ms/step
+Epoch 257/500
+10000/10000 - 12s - loss: 6567245643776.0000 - mean_absolute_error: 1409286.5000 - 12s/epoch - 1ms/step
+Epoch 258/500
+10000/10000 - 13s - loss: 6468596137984.0000 - mean_absolute_error: 1395819.0000 - 13s/epoch - 1ms/step
+Epoch 259/500
+10000/10000 - 12s - loss: 6471971504128.0000 - mean_absolute_error: 1395117.6250 - 12s/epoch - 1ms/step
+Epoch 260/500
+10000/10000 - 12s - loss: 6499225567232.0000 - mean_absolute_error: 1397548.8750 - 12s/epoch - 1ms/step
+Epoch 261/500
+10000/10000 - 12s - loss: 6459392786432.0000 - mean_absolute_error: 1393757.8750 - 12s/epoch - 1ms/step
+Epoch 262/500
+10000/10000 - 12s - loss: 6500020387840.0000 - mean_absolute_error: 1400581.0000 - 12s/epoch - 1ms/step
+Epoch 263/500
+10000/10000 - 13s - loss: 6453023211520.0000 - mean_absolute_error: 1401172.5000 - 13s/epoch - 1ms/step
+Epoch 264/500
+10000/10000 - 12s - loss: 6455378837504.0000 - mean_absolute_error: 1396920.5000 - 12s/epoch - 1ms/step
+Epoch 265/500
+10000/10000 - 12s - loss: 6434075967488.0000 - mean_absolute_error: 1392614.2500 - 12s/epoch - 1ms/step
+Epoch 266/500
+10000/10000 - 12s - loss: 6439600914432.0000 - mean_absolute_error: 1393436.0000 - 12s/epoch - 1ms/step
+Epoch 267/500
+10000/10000 - 12s - loss: 6442523295744.0000 - mean_absolute_error: 1388975.7500 - 12s/epoch - 1ms/step
+Epoch 268/500
+10000/10000 - 12s - loss: 6456650235904.0000 - mean_absolute_error: 1397437.2500 - 12s/epoch - 1ms/step
+Epoch 269/500
+10000/10000 - 12s - loss: 6472938815488.0000 - mean_absolute_error: 1396642.0000 - 12s/epoch - 1ms/step
+Epoch 270/500
+10000/10000 - 12s - loss: 6457488048128.0000 - mean_absolute_error: 1397859.7500 - 12s/epoch - 1ms/step
+Epoch 271/500
+10000/10000 - 12s - loss: 6505486614528.0000 - mean_absolute_error: 1398489.0000 - 12s/epoch - 1ms/step
+Epoch 272/500
+10000/10000 - 12s - loss: 6446082686976.0000 - mean_absolute_error: 1395010.1250 - 12s/epoch - 1ms/step
+Epoch 273/500
+10000/10000 - 12s - loss: 6439368654848.0000 - mean_absolute_error: 1392045.0000 - 12s/epoch - 1ms/step
+Epoch 274/500
+10000/10000 - 12s - loss: 6383526215680.0000 - mean_absolute_error: 1385022.8750 - 12s/epoch - 1ms/step
+Epoch 275/500
+10000/10000 - 12s - loss: 6395334230016.0000 - mean_absolute_error: 1388111.6250 - 12s/epoch - 1ms/step
+Epoch 276/500
+10000/10000 - 12s - loss: 6421514027008.0000 - mean_absolute_error: 1391649.2500 - 12s/epoch - 1ms/step
+Epoch 277/500
+10000/10000 - 12s - loss: 6394393657344.0000 - mean_absolute_error: 1388847.5000 - 12s/epoch - 1ms/step
+Epoch 278/500
+10000/10000 - 12s - loss: 6366062182400.0000 - mean_absolute_error: 1385843.3750 - 12s/epoch - 1ms/step
+Epoch 279/500
+10000/10000 - 12s - loss: 6415572795392.0000 - mean_absolute_error: 1386532.5000 - 12s/epoch - 1ms/step
+Epoch 280/500
+10000/10000 - 12s - loss: 6396193538048.0000 - mean_absolute_error: 1388870.2500 - 12s/epoch - 1ms/step
+Epoch 281/500
+10000/10000 - 12s - loss: 6395116650496.0000 - mean_absolute_error: 1385825.1250 - 12s/epoch - 1ms/step
+Epoch 282/500
+10000/10000 - 12s - loss: 6420433469440.0000 - mean_absolute_error: 1390144.7500 - 12s/epoch - 1ms/step
+Epoch 283/500
+10000/10000 - 12s - loss: 6412052725760.0000 - mean_absolute_error: 1387797.7500 - 12s/epoch - 1ms/step
+Epoch 284/500
+10000/10000 - 13s - loss: 6368719798272.0000 - mean_absolute_error: 1386656.0000 - 13s/epoch - 1ms/step
+Epoch 285/500
+10000/10000 - 12s - loss: 6305105838080.0000 - mean_absolute_error: 1382870.6250 - 12s/epoch - 1ms/step
+Epoch 286/500
+10000/10000 - 12s - loss: 6382467678208.0000 - mean_absolute_error: 1389628.5000 - 12s/epoch - 1ms/step
+Epoch 287/500
+10000/10000 - 12s - loss: 6349011288064.0000 - mean_absolute_error: 1379759.8750 - 12s/epoch - 1ms/step
+Epoch 288/500
+10000/10000 - 12s - loss: 6324875689984.0000 - mean_absolute_error: 1378251.8750 - 12s/epoch - 1ms/step
+Epoch 289/500
+10000/10000 - 12s - loss: 6319756541952.0000 - mean_absolute_error: 1381558.8750 - 12s/epoch - 1ms/step
+Epoch 290/500
+10000/10000 - 13s - loss: 6372566499328.0000 - mean_absolute_error: 1387655.8750 - 13s/epoch - 1ms/step
+Epoch 291/500
+10000/10000 - 12s - loss: 6322559909888.0000 - mean_absolute_error: 1381006.6250 - 12s/epoch - 1ms/step
+Epoch 292/500
+10000/10000 - 12s - loss: 6329097256960.0000 - mean_absolute_error: 1381190.3750 - 12s/epoch - 1ms/step
+Epoch 293/500
+10000/10000 - 12s - loss: 6306015477760.0000 - mean_absolute_error: 1386838.5000 - 12s/epoch - 1ms/step
+Epoch 294/500
+10000/10000 - 12s - loss: 6342497533952.0000 - mean_absolute_error: 1387511.7500 - 12s/epoch - 1ms/step
+Epoch 295/500
+10000/10000 - 12s - loss: 6364426928128.0000 - mean_absolute_error: 1387213.3750 - 12s/epoch - 1ms/step
+Epoch 296/500
+10000/10000 - 12s - loss: 6294865444864.0000 - mean_absolute_error: 1380653.5000 - 12s/epoch - 1ms/step
+Epoch 297/500
+10000/10000 - 12s - loss: 6326940336128.0000 - mean_absolute_error: 1380885.7500 - 12s/epoch - 1ms/step
+Epoch 298/500
+10000/10000 - 13s - loss: 6315750457344.0000 - mean_absolute_error: 1379472.7500 - 13s/epoch - 1ms/step
+Epoch 299/500
+10000/10000 - 13s - loss: 6309194235904.0000 - mean_absolute_error: 1380974.7500 - 13s/epoch - 1ms/step
+Epoch 300/500
+10000/10000 - 14s - loss: 6292888354816.0000 - mean_absolute_error: 1377519.7500 - 14s/epoch - 1ms/step
+Epoch 301/500
+10000/10000 - 13s - loss: 6273555234816.0000 - mean_absolute_error: 1382572.5000 - 13s/epoch - 1ms/step
+Epoch 302/500
+10000/10000 - 13s - loss: 6326651453440.0000 - mean_absolute_error: 1379604.8750 - 13s/epoch - 1ms/step
+Epoch 303/500
+10000/10000 - 12s - loss: 6328867094528.0000 - mean_absolute_error: 1379097.7500 - 12s/epoch - 1ms/step
+Epoch 304/500
+10000/10000 - 13s - loss: 6293743468544.0000 - mean_absolute_error: 1384259.8750 - 13s/epoch - 1ms/step
+Epoch 305/500
+10000/10000 - 12s - loss: 6283646730240.0000 - mean_absolute_error: 1377770.3750 - 12s/epoch - 1ms/step
+Epoch 306/500
+10000/10000 - 12s - loss: 6342836224000.0000 - mean_absolute_error: 1385667.5000 - 12s/epoch - 1ms/step
+Epoch 307/500
+10000/10000 - 12s - loss: 6237256679424.0000 - mean_absolute_error: 1376522.8750 - 12s/epoch - 1ms/step
+Epoch 308/500
+10000/10000 - 13s - loss: 6282442964992.0000 - mean_absolute_error: 1377202.8750 - 13s/epoch - 1ms/step
+Epoch 309/500
+10000/10000 - 13s - loss: 6282808393728.0000 - mean_absolute_error: 1379202.8750 - 13s/epoch - 1ms/step
+Epoch 310/500
+10000/10000 - 12s - loss: 6271244697600.0000 - mean_absolute_error: 1376792.0000 - 12s/epoch - 1ms/step
+Epoch 311/500
+10000/10000 - 12s - loss: 6244821106688.0000 - mean_absolute_error: 1376238.1250 - 12s/epoch - 1ms/step
+Epoch 312/500
+10000/10000 - 12s - loss: 6279564099584.0000 - mean_absolute_error: 1378985.0000 - 12s/epoch - 1ms/step
+Epoch 313/500
+10000/10000 - 12s - loss: 6246273384448.0000 - mean_absolute_error: 1377771.5000 - 12s/epoch - 1ms/step
+Epoch 314/500
+10000/10000 - 12s - loss: 6247031504896.0000 - mean_absolute_error: 1376927.1250 - 12s/epoch - 1ms/step
+Epoch 315/500
+10000/10000 - 12s - loss: 6245892751360.0000 - mean_absolute_error: 1375974.7500 - 12s/epoch - 1ms/step
+Epoch 316/500
+10000/10000 - 13s - loss: 6241336688640.0000 - mean_absolute_error: 1378115.3750 - 13s/epoch - 1ms/step
+Epoch 317/500
+10000/10000 - 12s - loss: 6254384119808.0000 - mean_absolute_error: 1378201.7500 - 12s/epoch - 1ms/step
+Epoch 318/500
+10000/10000 - 12s - loss: 6225874386944.0000 - mean_absolute_error: 1371870.3750 - 12s/epoch - 1ms/step
+Epoch 319/500
+10000/10000 - 12s - loss: 6216960966656.0000 - mean_absolute_error: 1371581.8750 - 12s/epoch - 1ms/step
+Epoch 320/500
+10000/10000 - 12s - loss: 6254979186688.0000 - mean_absolute_error: 1378845.5000 - 12s/epoch - 1ms/step
+Epoch 321/500
+10000/10000 - 13s - loss: 6163261292544.0000 - mean_absolute_error: 1365036.1250 - 13s/epoch - 1ms/step
+Epoch 322/500
+10000/10000 - 12s - loss: 6227317751808.0000 - mean_absolute_error: 1374741.1250 - 12s/epoch - 1ms/step
+Epoch 323/500
+10000/10000 - 12s - loss: 6212002250752.0000 - mean_absolute_error: 1374183.3750 - 12s/epoch - 1ms/step
+Epoch 324/500
+10000/10000 - 12s - loss: 6199455514624.0000 - mean_absolute_error: 1370860.2500 - 12s/epoch - 1ms/step
+Epoch 325/500
+10000/10000 - 12s - loss: 6168416616448.0000 - mean_absolute_error: 1369595.6250 - 12s/epoch - 1ms/step
+Epoch 326/500
+10000/10000 - 12s - loss: 6198057762816.0000 - mean_absolute_error: 1371714.5000 - 12s/epoch - 1ms/step
+Epoch 327/500
+10000/10000 - 12s - loss: 6168956108800.0000 - mean_absolute_error: 1364693.7500 - 12s/epoch - 1ms/step
+Epoch 328/500
+10000/10000 - 12s - loss: 6171453292544.0000 - mean_absolute_error: 1370728.0000 - 12s/epoch - 1ms/step
+Epoch 329/500
+10000/10000 - 12s - loss: 6161069244416.0000 - mean_absolute_error: 1371059.5000 - 12s/epoch - 1ms/step
+Epoch 330/500
+10000/10000 - 12s - loss: 6131584860160.0000 - mean_absolute_error: 1366662.8750 - 12s/epoch - 1ms/step
+Epoch 331/500
+10000/10000 - 12s - loss: 6134956032000.0000 - mean_absolute_error: 1368835.2500 - 12s/epoch - 1ms/step
+Epoch 332/500
+10000/10000 - 13s - loss: 6111480512512.0000 - mean_absolute_error: 1361001.0000 - 13s/epoch - 1ms/step
+Epoch 333/500
+10000/10000 - 13s - loss: 6132738818048.0000 - mean_absolute_error: 1365029.3750 - 13s/epoch - 1ms/step
+Epoch 334/500
+10000/10000 - 12s - loss: 6101719842816.0000 - mean_absolute_error: 1368203.8750 - 12s/epoch - 1ms/step
+Epoch 335/500
+10000/10000 - 12s - loss: 6149017436160.0000 - mean_absolute_error: 1364539.8750 - 12s/epoch - 1ms/step
+Epoch 336/500
+10000/10000 - 12s - loss: 6145151336448.0000 - mean_absolute_error: 1368035.5000 - 12s/epoch - 1ms/step
+Epoch 337/500
+10000/10000 - 12s - loss: 6075170422784.0000 - mean_absolute_error: 1362966.0000 - 12s/epoch - 1ms/step
+Epoch 338/500
+10000/10000 - 12s - loss: 6114816032768.0000 - mean_absolute_error: 1365795.6250 - 12s/epoch - 1ms/step
+Epoch 339/500
+10000/10000 - 12s - loss: 6056220557312.0000 - mean_absolute_error: 1360818.6250 - 12s/epoch - 1ms/step
+Epoch 340/500
+10000/10000 - 13s - loss: 6142554537984.0000 - mean_absolute_error: 1369598.2500 - 13s/epoch - 1ms/step
+Epoch 341/500
+10000/10000 - 12s - loss: 6116448665600.0000 - mean_absolute_error: 1367338.7500 - 12s/epoch - 1ms/step
+Epoch 342/500
+10000/10000 - 12s - loss: 6081238532096.0000 - mean_absolute_error: 1362772.7500 - 12s/epoch - 1ms/step
+Epoch 343/500
+10000/10000 - 12s - loss: 6026474029056.0000 - mean_absolute_error: 1359011.8750 - 12s/epoch - 1ms/step
+Epoch 344/500
+10000/10000 - 12s - loss: 6077235593216.0000 - mean_absolute_error: 1368043.3750 - 12s/epoch - 1ms/step
+Epoch 345/500
+10000/10000 - 12s - loss: 6073663094784.0000 - mean_absolute_error: 1361319.8750 - 12s/epoch - 1ms/step
+Epoch 346/500
+10000/10000 - 12s - loss: 6079983910912.0000 - mean_absolute_error: 1361537.0000 - 12s/epoch - 1ms/step
+Epoch 347/500
+10000/10000 - 12s - loss: 6045735321600.0000 - mean_absolute_error: 1358410.6250 - 12s/epoch - 1ms/step
+Epoch 348/500
+10000/10000 - 12s - loss: 6022131351552.0000 - mean_absolute_error: 1360571.6250 - 12s/epoch - 1ms/step
+Epoch 349/500
+10000/10000 - 12s - loss: 6018240610304.0000 - mean_absolute_error: 1355628.3750 - 12s/epoch - 1ms/step
+Epoch 350/500
+10000/10000 - 13s - loss: 6054441123840.0000 - mean_absolute_error: 1361065.6250 - 13s/epoch - 1ms/step
+Epoch 351/500
+10000/10000 - 12s - loss: 6035342360576.0000 - mean_absolute_error: 1359870.1250 - 12s/epoch - 1ms/step
+Epoch 352/500
+10000/10000 - 12s - loss: 6067819905024.0000 - mean_absolute_error: 1362154.2500 - 12s/epoch - 1ms/step
+Epoch 353/500
+10000/10000 - 12s - loss: 6043870429184.0000 - mean_absolute_error: 1357054.3750 - 12s/epoch - 1ms/step
+Epoch 354/500
+10000/10000 - 12s - loss: 5973828173824.0000 - mean_absolute_error: 1355188.1250 - 12s/epoch - 1ms/step
+Epoch 355/500
+10000/10000 - 13s - loss: 5991327858688.0000 - mean_absolute_error: 1359338.5000 - 13s/epoch - 1ms/step
+Epoch 356/500
+10000/10000 - 13s - loss: 5970335891456.0000 - mean_absolute_error: 1354188.1250 - 13s/epoch - 1ms/step
+Epoch 357/500
+10000/10000 - 12s - loss: 5957542739968.0000 - mean_absolute_error: 1358318.2500 - 12s/epoch - 1ms/step
+Epoch 358/500
+10000/10000 - 13s - loss: 6022452215808.0000 - mean_absolute_error: 1358405.8750 - 13s/epoch - 1ms/step
+Epoch 359/500
+10000/10000 - 12s - loss: 5988131274752.0000 - mean_absolute_error: 1354172.5000 - 12s/epoch - 1ms/step
+Epoch 360/500
+10000/10000 - 12s - loss: 6025064218624.0000 - mean_absolute_error: 1361654.0000 - 12s/epoch - 1ms/step
+Epoch 361/500
+10000/10000 - 12s - loss: 5997804388352.0000 - mean_absolute_error: 1356728.3750 - 12s/epoch - 1ms/step
+Epoch 362/500
+10000/10000 - 12s - loss: 5988433788928.0000 - mean_absolute_error: 1354740.3750 - 12s/epoch - 1ms/step
+Epoch 363/500
+10000/10000 - 12s - loss: 5968208330752.0000 - mean_absolute_error: 1356950.8750 - 12s/epoch - 1ms/step
+Epoch 364/500
+10000/10000 - 12s - loss: 5955142549504.0000 - mean_absolute_error: 1352407.0000 - 12s/epoch - 1ms/step
+Epoch 365/500
+10000/10000 - 12s - loss: 6022243024896.0000 - mean_absolute_error: 1363887.1250 - 12s/epoch - 1ms/step
+Epoch 366/500
+10000/10000 - 13s - loss: 5951892488192.0000 - mean_absolute_error: 1352761.5000 - 13s/epoch - 1ms/step
+Epoch 367/500
+10000/10000 - 12s - loss: 5954507112448.0000 - mean_absolute_error: 1353487.6250 - 12s/epoch - 1ms/step
+Epoch 368/500
+10000/10000 - 12s - loss: 5910427074560.0000 - mean_absolute_error: 1350236.7500 - 12s/epoch - 1ms/step
+Epoch 369/500
+10000/10000 - 12s - loss: 5916585361408.0000 - mean_absolute_error: 1349566.3750 - 12s/epoch - 1ms/step
+Epoch 370/500
+10000/10000 - 12s - loss: 5917600907264.0000 - mean_absolute_error: 1348538.0000 - 12s/epoch - 1ms/step
+Epoch 371/500
+10000/10000 - 12s - loss: 5901783662592.0000 - mean_absolute_error: 1349059.0000 - 12s/epoch - 1ms/step
+Epoch 372/500
+10000/10000 - 12s - loss: 5947753758720.0000 - mean_absolute_error: 1353601.0000 - 12s/epoch - 1ms/step
+Epoch 373/500
+10000/10000 - 13s - loss: 5925299552256.0000 - mean_absolute_error: 1352091.5000 - 13s/epoch - 1ms/step
+Epoch 374/500
+10000/10000 - 12s - loss: 5939786678272.0000 - mean_absolute_error: 1356737.7500 - 12s/epoch - 1ms/step
+Epoch 375/500
+10000/10000 - 12s - loss: 5920723042304.0000 - mean_absolute_error: 1351619.0000 - 12s/epoch - 1ms/step
+Epoch 376/500
+10000/10000 - 13s - loss: 5940260110336.0000 - mean_absolute_error: 1351191.0000 - 13s/epoch - 1ms/step
+Epoch 377/500
+10000/10000 - 13s - loss: 5941425602560.0000 - mean_absolute_error: 1350177.1250 - 13s/epoch - 1ms/step
+Epoch 378/500
+10000/10000 - 14s - loss: 5903950020608.0000 - mean_absolute_error: 1348779.3750 - 14s/epoch - 1ms/step
+Epoch 379/500
+10000/10000 - 13s - loss: 5924626366464.0000 - mean_absolute_error: 1348588.6250 - 13s/epoch - 1ms/step
+Epoch 380/500
+10000/10000 - 13s - loss: 5920136364032.0000 - mean_absolute_error: 1356603.1250 - 13s/epoch - 1ms/step
+Epoch 381/500
+10000/10000 - 12s - loss: 5865318907904.0000 - mean_absolute_error: 1343644.3750 - 12s/epoch - 1ms/step
+Epoch 382/500
+10000/10000 - 13s - loss: 5849568247808.0000 - mean_absolute_error: 1348277.1250 - 13s/epoch - 1ms/step
+Epoch 383/500
+10000/10000 - 12s - loss: 5931116003328.0000 - mean_absolute_error: 1349504.8750 - 12s/epoch - 1ms/step
+Epoch 384/500
+10000/10000 - 12s - loss: 5885833773056.0000 - mean_absolute_error: 1346021.5000 - 12s/epoch - 1ms/step
+Epoch 385/500
+10000/10000 - 12s - loss: 5907022872576.0000 - mean_absolute_error: 1351082.1250 - 12s/epoch - 1ms/step
+Epoch 386/500
+10000/10000 - 12s - loss: 5852608593920.0000 - mean_absolute_error: 1343036.7500 - 12s/epoch - 1ms/step
+Epoch 387/500
+10000/10000 - 13s - loss: 5905034772480.0000 - mean_absolute_error: 1348950.7500 - 13s/epoch - 1ms/step
+Epoch 388/500
+10000/10000 - 12s - loss: 5859388686336.0000 - mean_absolute_error: 1344017.8750 - 12s/epoch - 1ms/step
+Epoch 389/500
+10000/10000 - 12s - loss: 5812558757888.0000 - mean_absolute_error: 1340532.0000 - 12s/epoch - 1ms/step
+Epoch 390/500
+10000/10000 - 13s - loss: 5871985754112.0000 - mean_absolute_error: 1345560.0000 - 13s/epoch - 1ms/step
+Epoch 391/500
+10000/10000 - 13s - loss: 5882688569344.0000 - mean_absolute_error: 1343678.0000 - 13s/epoch - 1ms/step
+Epoch 392/500
+10000/10000 - 13s - loss: 5849387892736.0000 - mean_absolute_error: 1339074.5000 - 13s/epoch - 1ms/step
+Epoch 393/500
+10000/10000 - 12s - loss: 5839593668608.0000 - mean_absolute_error: 1343491.6250 - 12s/epoch - 1ms/step
+Epoch 394/500
+10000/10000 - 13s - loss: 5787258191872.0000 - mean_absolute_error: 1338776.5000 - 13s/epoch - 1ms/step
+Epoch 395/500
+10000/10000 - 13s - loss: 5900212895744.0000 - mean_absolute_error: 1350875.5000 - 13s/epoch - 1ms/step
+Epoch 396/500
+10000/10000 - 12s - loss: 5830206816256.0000 - mean_absolute_error: 1345409.3750 - 12s/epoch - 1ms/step
+Epoch 397/500
+10000/10000 - 12s - loss: 5843311394816.0000 - mean_absolute_error: 1346479.8750 - 12s/epoch - 1ms/step
+Epoch 398/500
+10000/10000 - 13s - loss: 5802420076544.0000 - mean_absolute_error: 1344528.3750 - 13s/epoch - 1ms/step
+Epoch 399/500
+10000/10000 - 13s - loss: 5812232126464.0000 - mean_absolute_error: 1337488.0000 - 13s/epoch - 1ms/step
+Epoch 400/500
+10000/10000 - 13s - loss: 5884635250688.0000 - mean_absolute_error: 1347849.1250 - 13s/epoch - 1ms/step
+Epoch 401/500
+10000/10000 - 13s - loss: 5740450283520.0000 - mean_absolute_error: 1335443.0000 - 13s/epoch - 1ms/step
+Epoch 402/500
+10000/10000 - 13s - loss: 5853235642368.0000 - mean_absolute_error: 1347765.8750 - 13s/epoch - 1ms/step
+Epoch 403/500
+10000/10000 - 12s - loss: 5907350028288.0000 - mean_absolute_error: 1346283.2500 - 12s/epoch - 1ms/step
+Epoch 404/500
+10000/10000 - 13s - loss: 5830190039040.0000 - mean_absolute_error: 1342572.3750 - 13s/epoch - 1ms/step
+Epoch 405/500
+10000/10000 - 12s - loss: 5821663019008.0000 - mean_absolute_error: 1338223.2500 - 12s/epoch - 1ms/step
+Epoch 406/500
+10000/10000 - 13s - loss: 5866644832256.0000 - mean_absolute_error: 1347710.3750 - 13s/epoch - 1ms/step
+Epoch 407/500
+10000/10000 - 12s - loss: 5787778285568.0000 - mean_absolute_error: 1337211.5000 - 12s/epoch - 1ms/step
+Epoch 408/500
+10000/10000 - 13s - loss: 5763705602048.0000 - mean_absolute_error: 1336000.1250 - 13s/epoch - 1ms/step
+Epoch 409/500
+10000/10000 - 13s - loss: 5709807747072.0000 - mean_absolute_error: 1335689.7500 - 13s/epoch - 1ms/step
+Epoch 410/500
+10000/10000 - 12s - loss: 5730077245440.0000 - mean_absolute_error: 1338932.6250 - 12s/epoch - 1ms/step
+Epoch 411/500
+10000/10000 - 12s - loss: 5757219635200.0000 - mean_absolute_error: 1337863.8750 - 12s/epoch - 1ms/step
+Epoch 412/500
+10000/10000 - 12s - loss: 5776524443648.0000 - mean_absolute_error: 1339793.7500 - 12s/epoch - 1ms/step
+Epoch 413/500
+10000/10000 - 12s - loss: 5805527531520.0000 - mean_absolute_error: 1342974.0000 - 12s/epoch - 1ms/step
+Epoch 414/500
+10000/10000 - 12s - loss: 5827777265664.0000 - mean_absolute_error: 1342264.5000 - 12s/epoch - 1ms/step
+Epoch 415/500
+10000/10000 - 12s - loss: 5794358624256.0000 - mean_absolute_error: 1343422.6250 - 12s/epoch - 1ms/step
+Epoch 416/500
+10000/10000 - 13s - loss: 5813012267008.0000 - mean_absolute_error: 1339909.0000 - 13s/epoch - 1ms/step
+Epoch 417/500
+10000/10000 - 12s - loss: 5799601504256.0000 - mean_absolute_error: 1336939.7500 - 12s/epoch - 1ms/step
+Epoch 418/500
+10000/10000 - 12s - loss: 5818798833664.0000 - mean_absolute_error: 1339058.7500 - 12s/epoch - 1ms/step
+Epoch 419/500
+10000/10000 - 12s - loss: 5880087052288.0000 - mean_absolute_error: 1349851.3750 - 12s/epoch - 1ms/step
+Epoch 420/500
+10000/10000 - 12s - loss: 5767723220992.0000 - mean_absolute_error: 1340617.5000 - 12s/epoch - 1ms/step
+Epoch 421/500
+10000/10000 - 13s - loss: 5790980112384.0000 - mean_absolute_error: 1341766.0000 - 13s/epoch - 1ms/step
+Epoch 422/500
+10000/10000 - 12s - loss: 5769705029632.0000 - mean_absolute_error: 1336433.7500 - 12s/epoch - 1ms/step
+Epoch 423/500
+10000/10000 - 12s - loss: 5640839757824.0000 - mean_absolute_error: 1330190.7500 - 12s/epoch - 1ms/step
+Epoch 424/500
+10000/10000 - 12s - loss: 5746029756416.0000 - mean_absolute_error: 1333467.8750 - 12s/epoch - 1ms/step
+Epoch 425/500
+10000/10000 - 12s - loss: 5698292809728.0000 - mean_absolute_error: 1332557.2500 - 12s/epoch - 1ms/step
+Epoch 426/500
+10000/10000 - 12s - loss: 5668857708544.0000 - mean_absolute_error: 1328189.2500 - 12s/epoch - 1ms/step
+Epoch 427/500
+10000/10000 - 12s - loss: 5678764654592.0000 - mean_absolute_error: 1327348.3750 - 12s/epoch - 1ms/step
+Epoch 428/500
+10000/10000 - 13s - loss: 5709527252992.0000 - mean_absolute_error: 1331369.2500 - 13s/epoch - 1ms/step
+Epoch 429/500
+10000/10000 - 12s - loss: 5757829382144.0000 - mean_absolute_error: 1332584.8750 - 12s/epoch - 1ms/step
+Epoch 430/500
+10000/10000 - 12s - loss: 5700591288320.0000 - mean_absolute_error: 1326123.3750 - 12s/epoch - 1ms/step
+Epoch 431/500
+10000/10000 - 12s - loss: 5702686867456.0000 - mean_absolute_error: 1333103.1250 - 12s/epoch - 1ms/step
+Epoch 432/500
+10000/10000 - 12s - loss: 5772266176512.0000 - mean_absolute_error: 1334186.8750 - 12s/epoch - 1ms/step
+Epoch 433/500
+10000/10000 - 12s - loss: 5635482583040.0000 - mean_absolute_error: 1328239.7500 - 12s/epoch - 1ms/step
+Epoch 434/500
+10000/10000 - 13s - loss: 5768381202432.0000 - mean_absolute_error: 1339998.2500 - 13s/epoch - 1ms/step
+Epoch 435/500
+10000/10000 - 12s - loss: 5707298504704.0000 - mean_absolute_error: 1331545.2500 - 12s/epoch - 1ms/step
+Epoch 436/500
+10000/10000 - 12s - loss: 5711838314496.0000 - mean_absolute_error: 1332991.6250 - 12s/epoch - 1ms/step
+Epoch 437/500
+10000/10000 - 12s - loss: 5722943258624.0000 - mean_absolute_error: 1335054.7500 - 12s/epoch - 1ms/step
+Epoch 438/500
+10000/10000 - 12s - loss: 5724669739008.0000 - mean_absolute_error: 1335251.7500 - 12s/epoch - 1ms/step
+Epoch 439/500
+10000/10000 - 12s - loss: 5694951522304.0000 - mean_absolute_error: 1329501.0000 - 12s/epoch - 1ms/step
+Epoch 440/500
+10000/10000 - 12s - loss: 5641221963776.0000 - mean_absolute_error: 1325286.5000 - 12s/epoch - 1ms/step
+Epoch 441/500
+10000/10000 - 12s - loss: 5671617560576.0000 - mean_absolute_error: 1329734.0000 - 12s/epoch - 1ms/step
+Epoch 442/500
+10000/10000 - 12s - loss: 5661440081920.0000 - mean_absolute_error: 1327012.3750 - 12s/epoch - 1ms/step
+Epoch 443/500
+10000/10000 - 12s - loss: 5707755159552.0000 - mean_absolute_error: 1330009.7500 - 12s/epoch - 1ms/step
+Epoch 444/500
+10000/10000 - 12s - loss: 5664804962304.0000 - mean_absolute_error: 1329826.0000 - 12s/epoch - 1ms/step
+Epoch 445/500
+10000/10000 - 13s - loss: 5687968530432.0000 - mean_absolute_error: 1330661.5000 - 13s/epoch - 1ms/step
+Epoch 446/500
+10000/10000 - 12s - loss: 5751025172480.0000 - mean_absolute_error: 1331992.7500 - 12s/epoch - 1ms/step
+Epoch 447/500
+10000/10000 - 12s - loss: 5617969790976.0000 - mean_absolute_error: 1324178.8750 - 12s/epoch - 1ms/step
+Epoch 448/500
+10000/10000 - 12s - loss: 5635054764032.0000 - mean_absolute_error: 1325875.2500 - 12s/epoch - 1ms/step
+Epoch 449/500
+10000/10000 - 12s - loss: 5677708214272.0000 - mean_absolute_error: 1327706.8750 - 12s/epoch - 1ms/step
+Epoch 450/500
+10000/10000 - 12s - loss: 5640975024128.0000 - mean_absolute_error: 1327143.1250 - 12s/epoch - 1ms/step
+Epoch 451/500
+10000/10000 - 12s - loss: 5637469110272.0000 - mean_absolute_error: 1324794.6250 - 12s/epoch - 1ms/step
+Epoch 452/500
+10000/10000 - 12s - loss: 5670297927680.0000 - mean_absolute_error: 1329580.1250 - 12s/epoch - 1ms/step
+Epoch 453/500
+10000/10000 - 12s - loss: 5611715559424.0000 - mean_absolute_error: 1327660.7500 - 12s/epoch - 1ms/step
+Epoch 454/500
+10000/10000 - 12s - loss: 5598764597248.0000 - mean_absolute_error: 1326095.0000 - 12s/epoch - 1ms/step
+Epoch 455/500
+10000/10000 - 12s - loss: 5663923109888.0000 - mean_absolute_error: 1329962.1250 - 12s/epoch - 1ms/step
+Epoch 456/500
+10000/10000 - 12s - loss: 5696798588928.0000 - mean_absolute_error: 1328353.8750 - 12s/epoch - 1ms/step
+Epoch 457/500
+10000/10000 - 12s - loss: 5627783413760.0000 - mean_absolute_error: 1321875.8750 - 12s/epoch - 1ms/step
+Epoch 458/500
+10000/10000 - 12s - loss: 5625271025664.0000 - mean_absolute_error: 1325459.3750 - 12s/epoch - 1ms/step
+Epoch 459/500
+10000/10000 - 12s - loss: 5650424791040.0000 - mean_absolute_error: 1325387.3750 - 12s/epoch - 1ms/step
+Epoch 460/500
+10000/10000 - 12s - loss: 5596639657984.0000 - mean_absolute_error: 1323681.7500 - 12s/epoch - 1ms/step
+Epoch 461/500
+10000/10000 - 12s - loss: 5586803490816.0000 - mean_absolute_error: 1321995.1250 - 12s/epoch - 1ms/step
+Epoch 462/500
+10000/10000 - 12s - loss: 5661096148992.0000 - mean_absolute_error: 1326866.1250 - 12s/epoch - 1ms/step
+Epoch 463/500
+10000/10000 - 12s - loss: 5654611230720.0000 - mean_absolute_error: 1326967.6250 - 12s/epoch - 1ms/step
+Epoch 464/500
+10000/10000 - 12s - loss: 5560532467712.0000 - mean_absolute_error: 1318905.1250 - 12s/epoch - 1ms/step
+Epoch 465/500
+10000/10000 - 12s - loss: 5529835929600.0000 - mean_absolute_error: 1318554.0000 - 12s/epoch - 1ms/step
+Epoch 466/500
+10000/10000 - 12s - loss: 5603289202688.0000 - mean_absolute_error: 1322191.6250 - 12s/epoch - 1ms/step
+Epoch 467/500
+10000/10000 - 13s - loss: 5583165456384.0000 - mean_absolute_error: 1323889.0000 - 13s/epoch - 1ms/step
+Epoch 468/500
+10000/10000 - 12s - loss: 5605537873920.0000 - mean_absolute_error: 1327278.6250 - 12s/epoch - 1ms/step
+Epoch 469/500
+10000/10000 - 12s - loss: 5585487527936.0000 - mean_absolute_error: 1321791.7500 - 12s/epoch - 1ms/step
+Epoch 470/500
+10000/10000 - 12s - loss: 5534660427776.0000 - mean_absolute_error: 1320007.8750 - 12s/epoch - 1ms/step
+Epoch 471/500
+10000/10000 - 12s - loss: 5555215663104.0000 - mean_absolute_error: 1324145.3750 - 12s/epoch - 1ms/step
+Epoch 472/500
+10000/10000 - 12s - loss: 5601118650368.0000 - mean_absolute_error: 1325143.5000 - 12s/epoch - 1ms/step
+Epoch 473/500
+10000/10000 - 12s - loss: 5604419567616.0000 - mean_absolute_error: 1325700.0000 - 12s/epoch - 1ms/step
+Epoch 474/500
+10000/10000 - 12s - loss: 5645526892544.0000 - mean_absolute_error: 1327245.7500 - 12s/epoch - 1ms/step
+Epoch 475/500
+10000/10000 - 12s - loss: 5507827367936.0000 - mean_absolute_error: 1318048.6250 - 12s/epoch - 1ms/step
+Epoch 476/500
+10000/10000 - 12s - loss: 5494581755904.0000 - mean_absolute_error: 1318058.3750 - 12s/epoch - 1ms/step
+Epoch 477/500
+10000/10000 - 13s - loss: 5542005702656.0000 - mean_absolute_error: 1319043.2500 - 13s/epoch - 1ms/step
+Epoch 478/500
+10000/10000 - 12s - loss: 5544440496128.0000 - mean_absolute_error: 1314707.0000 - 12s/epoch - 1ms/step
+Epoch 479/500
+10000/10000 - 12s - loss: 5554860195840.0000 - mean_absolute_error: 1320021.3750 - 12s/epoch - 1ms/step
+Epoch 480/500
+10000/10000 - 12s - loss: 5584937549824.0000 - mean_absolute_error: 1320775.0000 - 12s/epoch - 1ms/step
+Epoch 481/500
+10000/10000 - 12s - loss: 5585999757312.0000 - mean_absolute_error: 1323152.0000 - 12s/epoch - 1ms/step
+Epoch 482/500
+10000/10000 - 12s - loss: 5475346153472.0000 - mean_absolute_error: 1312999.3750 - 12s/epoch - 1ms/step
+Epoch 483/500
+10000/10000 - 12s - loss: 5611652120576.0000 - mean_absolute_error: 1326276.0000 - 12s/epoch - 1ms/step
+Epoch 484/500
+10000/10000 - 13s - loss: 5540980195328.0000 - mean_absolute_error: 1318078.7500 - 13s/epoch - 1ms/step
+Epoch 485/500
+10000/10000 - 12s - loss: 5632169607168.0000 - mean_absolute_error: 1321985.7500 - 12s/epoch - 1ms/step
+Epoch 486/500
+10000/10000 - 12s - loss: 5460757839872.0000 - mean_absolute_error: 1315590.1250 - 12s/epoch - 1ms/step
+Epoch 487/500
+10000/10000 - 12s - loss: 5555026919424.0000 - mean_absolute_error: 1318656.1250 - 12s/epoch - 1ms/step
+Epoch 488/500
+10000/10000 - 12s - loss: 5566630985728.0000 - mean_absolute_error: 1318069.8750 - 12s/epoch - 1ms/step
+Epoch 489/500
+10000/10000 - 13s - loss: 5569490452480.0000 - mean_absolute_error: 1322041.1250 - 13s/epoch - 1ms/step
+Epoch 490/500
+10000/10000 - 12s - loss: 5505240530944.0000 - mean_absolute_error: 1317508.0000 - 12s/epoch - 1ms/step
+Epoch 491/500
+10000/10000 - 12s - loss: 5519506407424.0000 - mean_absolute_error: 1320058.6250 - 12s/epoch - 1ms/step
+Epoch 492/500
+10000/10000 - 12s - loss: 5553726685184.0000 - mean_absolute_error: 1319236.5000 - 12s/epoch - 1ms/step
+Epoch 493/500
+10000/10000 - 12s - loss: 5493254782976.0000 - mean_absolute_error: 1314060.2500 - 12s/epoch - 1ms/step
+Epoch 494/500
+10000/10000 - 13s - loss: 5510056116224.0000 - mean_absolute_error: 1318309.5000 - 13s/epoch - 1ms/step
+Epoch 495/500
+10000/10000 - 13s - loss: 5537279770624.0000 - mean_absolute_error: 1319660.2500 - 13s/epoch - 1ms/step
+Epoch 496/500
+10000/10000 - 12s - loss: 5426097160192.0000 - mean_absolute_error: 1313409.5000 - 12s/epoch - 1ms/step
+Epoch 497/500
+10000/10000 - 12s - loss: 5472369246208.0000 - mean_absolute_error: 1314064.6250 - 12s/epoch - 1ms/step
+Epoch 498/500
+10000/10000 - 13s - loss: 5590757146624.0000 - mean_absolute_error: 1320701.3750 - 13s/epoch - 1ms/step
+Epoch 499/500
+10000/10000 - 13s - loss: 5463872110592.0000 - mean_absolute_error: 1317181.3750 - 13s/epoch - 1ms/step
+Epoch 500/500
+10000/10000 - 12s - loss: 5487064514560.0000 - mean_absolute_error: 1314770.5000 - 12s/epoch - 1ms/step
